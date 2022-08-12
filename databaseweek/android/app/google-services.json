@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "898019520872",
+    "project_id": "flutter-crud-4b633",
+    "storage_bucket": "flutter-crud-4b633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898019520872:android:ab25ee2fdda997d0a026dd",
+        "android_client_info": {
+          "package_name": "com.example.databaseweek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898019520872-6ikcfb434kmdrlcgpgoe5ollm6n85jnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHp90MTU0-PExaiqpRKPdJhxpaMLsZ8n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898019520872-6ikcfb434kmdrlcgpgoe5ollm6n85jnk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898019520872-a7nc50t90gsp1f30pdikihls63q7f9k3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.databaseweek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
